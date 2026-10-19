@@ -146,6 +146,14 @@ So I made this one: a short, practical list of AI tools that are actually worth 
 - **Link:** https://github.com/lynote-ai/humanize-text<br>
 [Thanks [fendouai](https://github.com/fendouai)]
 
+### 14b. ImagineYourBook
+[Attention please! No ongoing free plan: the first book is free, then paid plans]
+- **Category:** AI book writing
+- **Best for:** planning and drafting full-length books, keeping a series consistent
+- **Why use it:** ImagineYourBook plans a whole book from an idea and drafts it chapter by chapter, with series story bibles, cover design, and Word, EPUB and Markdown export. Drafts still need the author's own review and editing. The first 10k-word book is free to write with no card; downloading it starts a 7-day free trial that needs a payment method.
+- **Rating:**
+- **Link:** https://www.imagineyourbook.com/
+
 ---
 
 ## Image Generation & Design
